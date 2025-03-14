@@ -12,6 +12,8 @@ running catalina installer from gibmacOS-master APFS formated Intel UHD graphics
 use this to download os for isnaller gibmacOS-master https://github.com/corpnewt/gibMacOS
 Catalina version 10.15
 
+![Image](https://github.com/user-attachments/assets/c1deedf8-951b-4b49-b02c-7fd493b26dd3)
+
 This repo was created after I was able to boot with the desktop files for Comet Lake platform.
 Most of the work to get this to work was done by MaLd0n, which can be found here:
 https://www.olarila.com/topic/12233-eblogexitbsstart-error-opencore-big-sur-111/?tab=comments#comment-138034

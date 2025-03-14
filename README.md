@@ -16,13 +16,13 @@ All credits for the DSDT file go to him.
 
 [![license](https://img.shields.io/badge/license-Anti%20996-blue.svg)](https://github.com/996icu/996.ICU/blob/master/LICENSE)
 
-**macOS Version: 11.1 Big Sur **
+**macOS Version: Catlina **
 
-**OpenCore Version: [0.6.9 Offical](https://github.com/acidanthera/OpenCorePkg/releases/tag/0.6.9)**
+**OpenCore Version: 
 
-MacOS on Asus FX506L
+MacOS on Asus FX506LHB
 
- MacOS Big Sur 11.1-11.4 tested
+ MacOS Catalina version 10.15 tested
  :-------------------------:
 
  
@@ -83,7 +83,7 @@ Added older WhateverGreen to fix backlight black for 3 minutes.
  ## ## Issues & Solutions
  ### macOS
  * [Hackintool: The Swiss army knife of vanilla Hackintoshing.](https://github.com/headkaze/Hackintool)
- * [How to download a full ‘Install macOS’ app with software update in TERMINAL](https://scriptingosx.com/2019/10/download-a-full-install-macos-app-with-softwareupdate-in-catalina/)
+ * [How to download a full ‘Install macOS’ gibmacOS-master](https://www.tonymacx86.com/threads/gibmacos-tutorial-how-to-download-macos-directly-from-apple.295248/)
  
  ## Generate your own SMbios
 

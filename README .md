@@ -2,6 +2,12 @@
 OpenCore files for Asus TUF 15
 
 # Asus TUF 15 FX506L OpenCore OSX EFI
+ASUS TUF Dash F15 FX506LHB Opencore
+i5-10300H 1GB integrated 10 generation with 8cores
+Nvidia GeForce GTX 1660 GDDR6 4GB dedicated vm (128bits)
+storage: 1TB SSSD two NVMe kingston512GB, mircron2210 16GB ram memory 
+WiFi 6 
+running catalina installer from gibmacOS-master APFS formated Intel UHD graphics fully working
 
 This repo was created after I was able to boot with the desktop files for Comet Lake platform.
 Most of the work to get this to work was done by MaLd0n, which can be found here:

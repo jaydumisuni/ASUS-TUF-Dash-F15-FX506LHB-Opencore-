@@ -58,7 +58,7 @@ Added older WhateverGreen to fix backlight black for 3 minutes.
  | Machine | ✅ | Asus TUF 15 FX506LI |
  | BIOS | ✅ | 3.06 |
  | CPU | ✅ | Intel(R) Core(TM) i5-10300H CPU @ 2.50GHz |
- | RAM | ✅ | 24GB DDR4 SODIMM |
+ | RAM | ✅ | 8GB DDR4 SODIMM |
  | SSD | ✅ | 512GB NVMe |
  | iGPU | ✅ | Intel UHD Graphics 630 1536 MB |
  | WLAN | ✅ | Intel AX201 Wifi 6 Card |

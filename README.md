@@ -28,7 +28,8 @@ MacOS on Asus FX506LHB
  MacOS Catalina version 10.15 tested
  :-------------------------:
 
- 
+ ![Uploading Screenshot 2023-04-06 at 8.27.06 AM.png…]()
+
  ## Updates
 - 2021-06-03
 Upgraded to MacOS 11.4 - USBports kext added - needed to make USB work
